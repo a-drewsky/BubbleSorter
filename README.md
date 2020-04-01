@@ -1,2 +1,2 @@
 # BubbleSorter
-Bubble Sorting Algorithm
+A visualization of the bubble sort algorithm using cars
